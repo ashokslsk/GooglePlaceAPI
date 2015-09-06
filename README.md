@@ -576,6 +576,9 @@ public class MainActivity extends FragmentActivity implements LocationListener{
 
 
 ```
+**You can use place details api to continue further**
+
+* [Place details API ] (https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJTwAYFHcTrjsRW6pqlP7cPDE&key=AIzaSyC7aT9gjldiPS_-97S7ftqeB6nuYDltK6c)
 
 ![Screen](https://github.com/ashokslsk/GooglePlaceAPI/blob/master/screens/2.png)
 
